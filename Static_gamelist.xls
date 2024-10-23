@@ -1,0 +1,51 @@
+	Player	AgentName	Country	Target	FirstContact	SecondContact	Passphrase
+0	Player 1	Agent Skeleton	Pakistan	Your target is Agent Cauldron	The delegate from Turkey (Türkiye) is Agent Vampyr	The delegate from Guinea-Bissau is Agent Hobgoblin	fab4055
+1	Player 2	Agent Monster	Zimbabwe	Your target is Agent Nevermore	The delegate from India is Agent Raven	The delegate from Fiji is Agent Jackolantern	0c3e007
+2	Player 3	Agent Zombie	Ireland	Your target is Agent Golem	The delegate from San Marino is Agent Spellbound	The delegate from El Salvador is Agent Marionette	337e249
+3	Player 4	Agent Vampyr	Turkey (Türkiye)	Your target is Agent Warlock	The delegate from United Arab Emirates is Agent Cobweb	The delegate from Kazakhstan is Agent Cryptic	c59d0cf
+4	Player 5	Agent Werewolf	Ukraine	Your target is Agent Pentagram	The delegate from Chad is Agent Macabre	The delegate from Turkey (Türkiye) is Agent Vampyr	542cb91
+5	Player 6	Agent Gargoyle	Canada	Your target is Agent Gallows	The delegate from Zimbabwe is Agent Monster	The delegate from Vanuatu is Agent Haunting	905cd52
+6	Player 7	Agent Djinni	Saint Lucia	Your target is Agent Skeleton	The delegate from Argentina is Agent Specter	The delegate from Canada is Agent Gargoyle	96af01e
+7	Player 8	Agent Daemon	Djibouti	Your target is Agent Occult	The delegate from Bhutan is Agent Ritual	The delegate from Uganda is Agent Casket	d92309c
+8	Player 9	Agent Golem	Nigeria	Your target is Agent Broomstick	The delegate from South Africa is Agent Batwing	The delegate from Armenia is Agent Corsair	19c18fa
+9	Player 10	Agent Phantom	Cuba	Your target is Agent Batwing	The delegate from Finland is Agent Reaper	The delegate from Eritrea is Agent Nevermore	3d54ec0
+10	Player 11	Agent Specter	Argentina	Your target is Agent Corsair	The delegate from Palau is Agent Voudou	The delegate from Uruguay is Agent Hellhound	bd77cfc
+11	Player 12	Agent Mummy	Haiti	Your target is Agent Gravestone	The delegate from Ukraine is Agent Werewolf	The delegate from Saint Kitts and Nevis is Agent Gorecrow	728b3e2
+12	Player 13	Agent Warlock	Bahrain	Your target is Agent Vampyr	The delegate from Tanzania is Agent Scarecrow	The delegate from Lithuania is Agent Harvestmoon	6436073
+13	Player 14	Agent Scarecrow	Tanzania	Your target is Agent Marionette	The delegate from Vanuatu is Agent Haunting	The delegate from Saint Vincent and the Grenadines is Agent Broomstick	690b833
+14	Player 15	Agent Banshee	Portugal	Your target is Agent Gorecrow	The delegate from Lesotho is Agent Occult	The delegate from San Marino is Agent Spellbound	19eebc4
+15	Player 16	Agent Gravestone	Mauritius	Your target is Agent Mummy	The delegate from Latvia is Agent Talisman	The delegate from United Arab Emirates is Agent Cobweb	042b012
+16	Player 17	Agent Cryptic	Kazakhstan	Your target is Agent Spellbound	The delegate from Luxembourg is Agent Bewitched	The delegate from Saint Lucia is Agent Djinni	99350ba
+17	Player 18	Agent Broomstick	Saint Vincent and the Grenadines	Your target is Agent Talisman	The delegate from Saint Lucia is Agent Djinni	The delegate from Finland is Agent Reaper	c0d61b6
+18	Player 19	Agent Cauldron	Guyana	Your target is Agent Gargoyle	The delegate from Djibouti is Agent Daemon	The delegate from Kiribati is Agent Vigil	f9e7094
+19	Player 20	Agent Cobweb	United Arab Emirates	Your target is Agent Harvestmoon	The delegate from South Sudan is Agent Candlejack	The delegate from Bahrain is Agent Warlock	315b1d8
+20	Player 21	Agent Nevermore	Eritrea	Your target is Agent Medusa	The delegate from Guinea-Bissau is Agent Hobgoblin	The delegate from Bulgaria is Agent Medusa	b0b85fc
+21	Player 22	Agent Nightmare	Nauru	Your target is Agent Horror	The delegate from Sao Tome and Principe is Agent Shapeshift	The delegate from Saint Vincent and the Grenadines is Agent Broomstick	4dcd949
+22	Player 23	Agent Spellbound	San Marino	Your target is Agent Phantom	The delegate from Fiji is Agent Jackolantern	The delegate from Guyana is Agent Cauldron	c22c605
+23	Player 24	Agent Broomstick	Vietnam	Your target is Agent Cobweb	The delegate from Montenegro is Agent Pentagram	The delegate from Togo is Agent Omen	ec9b035
+24	Player 25	Agent Gorecrow	Saint Kitts and Nevis	Your target is Agent Broomstick	The delegate from Togo is Agent Omen	The delegate from Sao Tome and Principe is Agent Shapeshift	58d858e
+25	Player 26	Agent Horror	Bosnia and Herzegovina	Your target is Agent Nightmare	The delegate from Saint Kitts and Nevis is Agent Gorecrow	The delegate from Djibouti is Agent Daemon	f7e5764
+26	Player 27	Agent Casket	Uganda	Your target is Agent Macabre	The delegate from Bahrain is Agent Warlock	The delegate from Tanzania is Agent Scarecrow	20a96dc
+27	Player 28	Agent Occult	Lesotho	Your target is Agent Cryptic	The delegate from Kazakhstan is Agent Cryptic	The delegate from India is Agent Raven	91e3365
+28	Player 29	Agent Medusa	Bulgaria	Your target is Agent Casket	The delegate from Saint Vincent and the Grenadines is Agent Broomstick	The delegate from Nigeria is Agent Golem	48362e8
+29	Player 30	Agent Marionette	El Salvador	Your target is Agent Daemon	The delegate from Bosnia and Herzegovina is Agent Horror	The delegate from Haiti is Agent Mummy	85abd64
+30	Player 31	Agent Corsair	Armenia	Your target is Agent Zombie	The delegate from Mauritius is Agent Gravestone	The delegate from Montenegro is Agent Pentagram	0c4ec84
+31	Player 32	Agent Hobgoblin	Guinea-Bissau	Your target is Agent Omen	The delegate from Pakistan is Agent Skeleton	The delegate from South Sudan is Agent Candlejack	f766afb
+32	Player 33	Agent Jackolantern	Fiji	Your target is Agent Hellhound	The delegate from Armenia is Agent Corsair	The delegate from Bhutan is Agent Ritual	1788ba2
+33	Player 34	Agent Reaper	Finland	Your target is Agent Scarecrow	The delegate from Saint Vincent and the Grenadines is Agent Broomstick	The delegate from Cuba is Agent Phantom	ad9e76a
+34	Player 35	Agent Talisman	Latvia	Your target is Agent Raven	The delegate from Bulgaria is Agent Medusa	The delegate from Argentina is Agent Specter	31f2e7f
+35	Player 36	Agent Hellhound	Uruguay	Your target is Agent Hobgoblin	The delegate from Nigeria is Agent Golem	The delegate from Palau is Agent Voudou	2bc08fa
+36	Player 37	Agent Omen	Togo	Your target is Agent Ritual	The delegate from Guyana is Agent Cauldron	The delegate from Luxembourg is Agent Bewitched	6224640
+37	Player 38	Agent Bewitched	Luxembourg	Your target is Agent Haunting	The delegate from Syria is Agent Gallows	The delegate from Pakistan is Agent Skeleton	5c93616
+38	Player 39	Agent Ritual	Bhutan	Your target is Agent Vigil	The delegate from Uganda is Agent Casket	The delegate from Lesotho is Agent Occult	4098415
+39	Player 40	Agent Harvestmoon	Lithuania	Your target is Agent Voudou	The delegate from Ireland is Agent Zombie	The delegate from Zimbabwe is Agent Monster	da3d659
+40	Player 41	Agent Pentagram	Montenegro	Your target is Agent Banshee	The delegate from Portugal is Agent Banshee	The delegate from Mauritius is Agent Gravestone	18a62ca
+41	Player 42	Agent Gallows	Syria	Your target is Agent Shapeshift	The delegate from Uruguay is Agent Hellhound	The delegate from Chad is Agent Macabre	31e4e3c
+42	Player 43	Agent Raven	India	Your target is Agent Monster	The delegate from Haiti is Agent Mummy	The delegate from Portugal is Agent Banshee	42bfc88
+43	Player 44	Agent Vigil	Kiribati	Your target is Agent Candlejack	The delegate from Canada is Agent Gargoyle	The delegate from Ireland is Agent Zombie	b2b9091
+44	Player 45	Agent Candlejack	South Sudan	Your target is Agent Jackolantern	The delegate from Nauru is Agent Nightmare	The delegate from Bosnia and Herzegovina is Agent Horror	d791ea6
+45	Player 46	Agent Haunting	Vanuatu	Your target is Agent Bewitched	The delegate from Cuba is Agent Phantom	The delegate from Latvia is Agent Talisman	782dbb2
+46	Player 47	Agent Shapeshift	Sao Tome and Principe	Your target is Agent Werewolf	The delegate from El Salvador is Agent Marionette	The delegate from Nauru is Agent Nightmare	0310c6d
+47	Player 48	Agent Voudou	Palau	Your target is Agent Reaper	The delegate from Eritrea is Agent Nevermore	The delegate from Ukraine is Agent Werewolf	42c1bab
+48	Player 49	Agent Batwing	South Africa	Your target is Agent Djinni	The delegate from Kiribati is Agent Vigil	The delegate from Syria is Agent Gallows	ebb9e2b
+49	Player 50	Agent Macabre	Chad	Your target is Agent Specter	Agent Harvestmoon	Agent Batwing	347fc91
