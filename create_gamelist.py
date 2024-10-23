@@ -113,3 +113,4 @@ for line in range(len(info)):
 info.at[len(info)-1,'FirstContact'] = f'The delegate from {info.at[len(info)-1,'Country']} is {info.at[len(info)-1,'FirstContact']}'
 info.at[len(info)-1,'SecondContact'] = f'The delegate from {info.at[len(info)-1,'Country']} is {info.at[len(info)-1,'SecondContact']}'
 
+info.to_csv('Dynamic_gamelist.csv')
