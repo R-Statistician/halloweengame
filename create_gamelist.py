@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import streamlit as st
 
 p = pd.read_csv('player_countries.csv')
 
@@ -114,3 +115,5 @@ info.at[len(info)-1,'FirstContact'] = f'The delegate from {info.at[len(info)-1,'
 info.at[len(info)-1,'SecondContact'] = f'The delegate from {info.at[len(info)-1,'Country']} is {info.at[len(info)-1,'SecondContact']}'
 
 info.to_csv('Dynamic_gamelist.csv')
+
+st.write(info)
