@@ -4,8 +4,8 @@ import streamlit as st
 import time
 
 # imports a static solved list
-info = pd.read_csv('Static_gamelist.csv')
-# print(info.head)
+# info = pd.read_csv('Static_gamelist.csv')
+info = pd.read_csv('Game1_Game2.csv', index_col=0)
 
 # st.write(f'Top line is {info.iloc[0]}')
 
@@ -14,7 +14,7 @@ st.write('Welcome, Agent, to the Halloween Spy Game.')
 #     st.write('Enter your country and passphrase to access your dossier.')
 #     identity = st.text_input('Country',key='Pakistan')
 #     if identity:
-#         st.write("Why the fuck don't you work")
+#         st.write("Why don't you work")
     # passphrase = st.text_input('Passphrase')
     # val = info[info.Country == country]['Passphrase']
     # print(val)
@@ -40,9 +40,9 @@ if guess:
                         time.sleep(5)
                         st.write(f"You are posing as a minor government official from the country of {info[info.Country == guess]['Country'].values[0]}. In reality, you, too, are a secret agent, sent to locate and expose another enemy agent before they can commit grave damage to your homeland.")
                         time.sleep(5)
-                        st.write(f"{info[info.Country == guess]['Target'].values[0]}. Our sources could not determine which delegate {" ".join(info[info.Country == guess]['Target'].values[0].split(' ')[-2:])} is pretending to be. Your mission is to find out - determine which country your target is hiding behind, confront them, and publicly declare their identity to remove them from the game.  If you’re right, take their card. You now have their secret information.")
+                        st.write(f"Your target is {info[info.Country == guess]['Target'].values[0]}. Our sources could not determine which delegate {" ".join(info[info.Country == guess]['Target'].values[0].split(' ')[-2:])} is pretending to be. Your mission is to find out - determine which country your target is hiding behind, confront them, and publicly declare their identity to remove them from the game.  If you’re right, take their card. You now have their secret information.")
                         time.sleep(3)
-                        st.write("Anyone can expose an agent's identity. However, you can only remove someone from the game if you have the card (or dossier passphrase) naming them as a target.")
+                        st.write("Anyone can expose an agent's identity. However, you can only remove someone from the game if you have the card (or dossier passphrase) naming them as a target. In other words, if you take out your target, you inherit their own target - and can expose them next.")
                         time.sleep(5)
                         st.write('But be cautious - you are being hunted at the same time. Someone at this party is trying to track you down and give you the same treatment.')
                         time.sleep(3)
@@ -54,7 +54,7 @@ if guess:
                         time.sleep(6)
                         st.write(f"You'll need all of your wits and training to pull this mission off. Good luck, {info[info.Country == guess]['AgentName'].values[0]}. Message ends.")
                     if st.button('Key Mission Details'):
-                        st.write(f'{info[info.Country == guess]['Target'].values[0]}')
+                        st.write(f'Your target is {info[info.Country == guess]['Target'].values[0]}')
                         st.write(f'Secret identities provided to you by HQ:')
                         st.write(info[info.Country == guess]['FirstContact'].values[0])
                         st.write(info[info.Country == guess]['SecondContact'].values[0])  
