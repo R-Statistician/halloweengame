@@ -1,0 +1,51 @@
+,Player,AgentName,Country,Target,FirstContact,SecondContact
+0,Player 1,Agent Skeleton,Guyana,Agent Banshee,The delegate from India is Agent Vampyr,The delegate from South Africa is Agent Cauldron
+1,Player 2,Agent Monster,Uzbekistan,Agent Scarecrow,The delegate from Mauritania is Agent Cryptic,The delegate from Saudi Arabia is Agent Mummy
+2,Player 3,Agent Zombie,El Salvador,Agent Phantom,The delegate from Kazakhstan is Agent Nightmare,The delegate from Iceland is Agent Banshee
+3,Player 4,Agent Vampyr,India,Agent Monster,The delegate from Sierra Leone is Agent Gargoyle,The delegate from Panama is Agent Broomstick
+4,Player 5,Agent Werewolf,Guatemala,Agent Broomstick,The delegate from Iceland is Agent Banshee,The delegate from Guyana is Agent Skeleton
+5,Player 6,Agent Gargoyle,Sierra Leone,Agent Broomstick,The delegate from Egypt is Agent Djinni,The delegate from Venezuela is Agent Gravestone
+6,Player 7,Agent Djinni,Egypt,Agent Nevermore,The delegate from Bolivia is Agent Golem,The delegate from El Salvador is Agent Zombie
+7,Player 8,Agent Daemon,Belarus,Agent Gargoyle,The delegate from South Africa is Agent Cauldron,The delegate from Panama is Agent Broomstick
+8,Player 9,Agent Golem,Bolivia,Agent Cauldron,The delegate from Saudi Arabia is Agent Mummy,The delegate from Portugal is Agent Warlock
+9,Player 10,Agent Phantom,Mexico,Agent Spellbound,The delegate from Guyana is Agent Skeleton,The delegate from Sierra Leone is Agent Gargoyle
+10,Player 11,Agent Specter,Bosnia and Herzegovina,Agent Vampyr,The delegate from Brunei is Agent Cobweb,The delegate from Kazakhstan is Agent Nightmare
+11,Player 12,Agent Mummy,Saudi Arabia,Agent Djinni,The delegate from Bosnia and Herzegovina is Agent Specter,The delegate from Timor-Leste is Agent Scarecrow
+12,Player 13,Agent Warlock,Portugal,Agent Skeleton,The delegate from Liechtenstein is Agent Spellbound,The delegate from Bolivia is Agent Golem
+13,Player 14,Agent Scarecrow,Timor-Leste,Agent Cryptic,The delegate from Mexico is Agent Phantom,The delegate from Belarus is Agent Daemon
+14,Player 15,Agent Banshee,Iceland,Agent Mummy,The delegate from Thailand is Agent Gorecrow,The delegate from Guatemala is Agent Werewolf
+15,Player 16,Agent Gravestone,Venezuela,Agent Zombie,The delegate from Maldives is Agent Nevermore,The delegate from Thailand is Agent Gorecrow
+16,Player 17,Agent Cryptic,Mauritania,Agent Cobweb,The delegate from Portugal is Agent Warlock,The delegate from Bosnia and Herzegovina is Agent Specter
+17,Player 18,Agent Broomstick,Panama,Agent Golem,The delegate from Timor-Leste is Agent Scarecrow,The delegate from Mauritania is Agent Cryptic
+18,Player 19,Agent Cauldron,South Africa,Agent Nightmare,The delegate from Panama is Agent Broomstick,The delegate from India is Agent Vampyr
+19,Player 20,Agent Cobweb,Brunei,Agent Specter,The delegate from Guatemala is Agent Werewolf,The delegate from Liechtenstein is Agent Spellbound
+20,Player 21,Agent Nevermore,Maldives,Agent Gorecrow,The delegate from Panama is Agent Broomstick,The delegate from Mexico is Agent Phantom
+21,Player 22,Agent Nightmare,Kazakhstan,Agent Warlock,The delegate from Belarus is Agent Daemon,The delegate from Brunei is Agent Cobweb
+22,Player 23,Agent Spellbound,Liechtenstein,Agent Daemon,The delegate from Uzbekistan is Agent Monster,The delegate from Maldives is Agent Nevermore
+23,Player 24,Agent Broomstick,Ireland,Agent Gravestone,The delegate from El Salvador is Agent Zombie,The delegate from Egypt is Agent Djinni
+24,Player 25,Agent Gorecrow,Thailand,Agent Werewolf,The delegate from Venezuela is Agent Gravestone,The delegate from Uzbekistan is Agent Monster
+0,Player 1,Agent Horror,Philippines,Your target is Agent Reaper,The delegate from Indonesia is Agent Harvestmoon,The delegate from Nicaragua is Agent Talisman
+1,Player 2,Agent Casket,United Kingdom,Your target is Agent Hobgoblin,The delegate from Vanuatu is Agent Reaper,The delegate from Rwanda is Agent Hellhound
+2,Player 3,Agent Occult,Luxembourg,Your target is Agent Voudou,The delegate from Rwanda is Agent Hellhound,The delegate from Djibouti is Agent Raven
+3,Player 4,Agent Medusa,Poland,Your target is Agent Bewitched,The delegate from Philippines is Agent Horror,The delegate from Malaysia is Agent Candlejack
+4,Player 5,Agent Marionette,Brazil,Your target is Agent Pentagram,The delegate from Japan is Agent Macabre,The delegate from Vanuatu is Agent Reaper
+5,Player 6,Agent Corsair,Saint Lucia,Your target is Agent Batwing,The delegate from Romania is Agent Hobgoblin,The delegate from Indonesia is Agent Harvestmoon
+6,Player 7,Agent Hobgoblin,Romania,Your target is Agent Candlejack,The delegate from Georgia is Agent Voudou,The delegate from Philippines is Agent Horror
+7,Player 8,Agent Jackolantern,Haiti,Your target is Agent Raven,The delegate from Djibouti is Agent Raven,The delegate from Vietnam is Agent Pentagram
+8,Player 9,Agent Reaper,Vanuatu,Your target is Agent Talisman,The delegate from Brazil is Agent Marionette,The delegate from Georgia is Agent Voudou
+9,Player 10,Agent Talisman,Nicaragua,Your target is Agent Corsair,The delegate from Armenia is Agent Shapeshift,The delegate from Luxembourg is Agent Occult
+10,Player 11,Agent Hellhound,Rwanda,Your target is Agent Horror,The delegate from United Kingdom is Agent Casket,The delegate from Saint Lucia is Agent Corsair
+11,Player 12,Agent Omen,Uruguay,Your target is Agent Ritual,The delegate from Nicaragua is Agent Talisman,The delegate from Azerbaijan is Agent Vigil
+12,Player 13,Agent Bewitched,Cuba,Your target is Agent Occult,The delegate from Uruguay is Agent Omen,The delegate from Solomon Islands is Agent Ritual
+13,Player 14,Agent Ritual,Solomon Islands,Your target is Agent Hellhound,The delegate from Algeria is Agent Batwing,The delegate from Armenia is Agent Shapeshift
+14,Player 15,Agent Harvestmoon,Indonesia,Your target is Agent Jackolantern,The delegate from Kiribati is Agent Haunting,The delegate from Kuwait is Agent Gallows
+15,Player 16,Agent Pentagram,Vietnam,Your target is Agent Omen,The delegate from Saint Lucia is Agent Corsair,The delegate from Kiribati is Agent Haunting
+16,Player 17,Agent Gallows,Kuwait,Your target is Agent Shapeshift,The delegate from Poland is Agent Medusa,The delegate from Brazil is Agent Marionette
+17,Player 18,Agent Raven,Djibouti,Your target is Agent Marionette,The delegate from Cuba is Agent Bewitched,The delegate from United Kingdom is Agent Casket
+18,Player 19,Agent Vigil,Azerbaijan,Your target is Agent Medusa,The delegate from Luxembourg is Agent Occult,The delegate from Poland is Agent Medusa
+19,Player 20,Agent Candlejack,Malaysia,Your target is Agent Macabre,The delegate from Haiti is Agent Jackolantern,The delegate from Japan is Agent Macabre
+20,Player 21,Agent Haunting,Kiribati,Your target is Agent Vigil,The delegate from Kuwait is Agent Gallows,The delegate from Haiti is Agent Jackolantern
+21,Player 22,Agent Shapeshift,Armenia,Your target is Agent Gallows,The delegate from Malaysia is Agent Candlejack,The delegate from Algeria is Agent Batwing
+22,Player 23,Agent Voudou,Georgia,Your target is Agent Haunting,The delegate from Vietnam is Agent Pentagram,The delegate from Cuba is Agent Bewitched
+23,Player 24,Agent Batwing,Algeria,Your target is Agent Casket,The delegate from Azerbaijan is Agent Vigil,The delegate from Romania is Agent Hobgoblin
+24,Player 25,Agent Macabre,Japan,Your target is Agent Harvestmoon,The delegate from Solomon Islands is Agent Ritual,The delegate from Uruguay is Agent Omen
